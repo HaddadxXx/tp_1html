@@ -1,6 +1,4 @@
-/* styles.css */
 
-/* Styles généraux */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -123,7 +121,7 @@ footer address {
     font-style: normal;
 }
 
-/* Styles spécifiques au formulaire de contact */
+
 form {
     display: flex;
     flex-direction: column;
